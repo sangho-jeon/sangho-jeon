@@ -10,7 +10,7 @@
 <br/>
 
 
-- 🏫 I've been studying at CAU and majored [Digital Imaging Engineering](https://ie.cau.ac.kr/20141101/sub01/sub05.php)
+- 🏫 I've been studying at CAU and majoring in [Digital Imaging Engineering](https://ie.cau.ac.kr/20141101/sub01/sub05.php)
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning spring boot and so on
 - 🤔 I hope to be a great backend developer! 
