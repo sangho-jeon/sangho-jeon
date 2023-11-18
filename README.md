@@ -10,11 +10,11 @@
 <br/>
 
 
-- 🏫 I've been studying at CAU and majoring in [Digital Imaging Engineering](https://ie.cau.ac.kr/20141101/sub01/sub05.php)
-- 🔭 I’m currently working on backend
-- 🌱 I’m currently learning spring boot and so on
-- 🤔 I hope to be a great backend developer! 
-- 📫 I'm currently studying alone...
+- 🏫 Majored in [Digital Imaging Engineering](https://ie.cau.ac.kr/20141101/sub01/sub05.php)
+- 🔭 I’m currently working in LG CNS
+- 🌱 I’m currently learning Infrastructure
+- 🤔 And hoping to be CTO one day...
+- 📫 I'm currently studying with AWESOME colleague
 - ⚡ Welcome!
 
 <br/>
